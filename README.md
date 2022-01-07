@@ -1,7 +1,13 @@
-# empty notebook
+# compute minority rule
 
-an empty jupyter notebook project
+compute what proportion of validators could pass a proposal in various tendermint networks
 
 # install
 
-`bash setup.sh`
+```
+pip3 install -r requirements.txt
+```
+
+# run
+
+`jupyter notebook`
